@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile!
-## Hi there, I'm Artyom 👋
+### Hi there, I'm Artyom 👋
 
 - ⚡ Fun fact: I love what I starting to do - coding.
 - 🔭 I’m currently working on a lot of different stuff.
